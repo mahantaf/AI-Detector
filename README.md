@@ -1,7 +1,7 @@
 # Same Same But Different: Exploring Differences Between Human and LLM-Generated Code
 
 
-To see our results click on the Results.xlsx in the github repository.
+To see our results click on the `Results.xlsx` in the repository files list.
 
 Infomration regarding our prompts can be found in `LLM_Prompts.pdf` file.
 
