@@ -1,4 +1,4 @@
-# Same Same But Different: Exploring Differences Between Human and LLM-Generated Code
+# An Empirical Study on Automatically Detecting AI-Generated Source Code: How Far Are We?
 
 
 To see our results click on the `Results.xlsx` in the repository files list.
